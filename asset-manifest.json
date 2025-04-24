@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rutinas-de-gym/static/css/main.28a22dd4.css",
-    "main.js": "/rutinas-de-gym/static/js/main.a9f71855.js",
+    "main.js": "/rutinas-de-gym/static/js/main.1f044090.js",
     "static/js/453.5e1f5b0d.chunk.js": "/rutinas-de-gym/static/js/453.5e1f5b0d.chunk.js",
     "index.html": "/rutinas-de-gym/index.html",
     "main.28a22dd4.css.map": "/rutinas-de-gym/static/css/main.28a22dd4.css.map",
-    "main.a9f71855.js.map": "/rutinas-de-gym/static/js/main.a9f71855.js.map",
+    "main.1f044090.js.map": "/rutinas-de-gym/static/js/main.1f044090.js.map",
     "453.5e1f5b0d.chunk.js.map": "/rutinas-de-gym/static/js/453.5e1f5b0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28a22dd4.css",
-    "static/js/main.a9f71855.js"
+    "static/js/main.1f044090.js"
   ]
 }
