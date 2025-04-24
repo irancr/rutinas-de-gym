@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rutinas-de-gym/static/css/main.f855e6bc.css",
+    "main.js": "/rutinas-de-gym/static/js/main.95a9f3a0.js",
+    "static/js/453.5e1f5b0d.chunk.js": "/rutinas-de-gym/static/js/453.5e1f5b0d.chunk.js",
+    "static/media/logo.svg": "/rutinas-de-gym/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rutinas-de-gym/index.html",
+    "main.f855e6bc.css.map": "/rutinas-de-gym/static/css/main.f855e6bc.css.map",
+    "main.95a9f3a0.js.map": "/rutinas-de-gym/static/js/main.95a9f3a0.js.map",
+    "453.5e1f5b0d.chunk.js.map": "/rutinas-de-gym/static/js/453.5e1f5b0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.95a9f3a0.js"
+  ]
+}
